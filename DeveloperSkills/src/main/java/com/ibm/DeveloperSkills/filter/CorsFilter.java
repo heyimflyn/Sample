@@ -1,4 +1,4 @@
-package com.ibm.dscs.filter;
+package com.ibm.DeveloperSkills.filter;
 
 import java.io.IOException;
 

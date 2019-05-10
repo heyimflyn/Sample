@@ -1,4 +1,4 @@
-package com.ibm.dscs.domain;
+package com.ibm.DeveloperSkills.domain;
 
 import java.sql.Date;
 

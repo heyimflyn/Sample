@@ -2,11 +2,11 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.ibm.dscs.rest</groupId>
-	<artifactId>restsample01</artifactId>
+	<groupId>com.ibm.DeveloperSkills.rest</groupId>
+	<artifactId>DeveloperSkills</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>restsample01 Maven Webapp</name>
+	<name>DeveloperSkills Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
@@ -76,7 +76,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>restsample01</finalName>
+		<finalName>DeveloperSkills</finalName>
 	</build>
 	<properties>
 		<maven.compiler.source>8</maven.compiler.source>

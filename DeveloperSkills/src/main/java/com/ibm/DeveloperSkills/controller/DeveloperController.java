@@ -1,4 +1,4 @@
-package com.ibm.dscs.controller;
+package com.ibm.DeveloperSkills.controller;
 
 import java.sql.Date;
 import java.util.List;
@@ -17,9 +17,9 @@ import javax.ws.rs.core.Response;
 
 import org.apache.commons.lang3.StringUtils;
 
-import com.ibm.dscs.domain.Developer;
-import com.ibm.dscs.service.DeveloperService;
-import com.ibm.dscs.service.DeveloperServiceImpl;
+import com.ibm.DeveloperSkills.domain.Developer;
+import com.ibm.DeveloperSkills.service.DeveloperService;
+import com.ibm.DeveloperSkills.service.DeveloperServiceImpl;
 
 @Path("/developers")
 public class DeveloperController {

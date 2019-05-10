@@ -1,12 +1,12 @@
-package com.ibm.dscs.service;
+package com.ibm.DeveloperSkills.service;
 
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-import com.ibm.dscs.dao.DeveloperDao;
-import com.ibm.dscs.dao.DeveloperJdbc;
-import com.ibm.dscs.domain.Developer;
+import com.ibm.DeveloperSkills.dao.DeveloperDao;
+import com.ibm.DeveloperSkills.dao.DeveloperJdbc;
+import com.ibm.DeveloperSkills.domain.Developer;
 
 public class DeveloperServiceImpl implements DeveloperService{
 

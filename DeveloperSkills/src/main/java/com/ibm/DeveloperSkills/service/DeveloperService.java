@@ -1,8 +1,8 @@
-package com.ibm.dscs.service;
+package com.ibm.DeveloperSkills.service;
 
 import java.util.List;
 
-import com.ibm.dscs.domain.Developer;
+import com.ibm.DeveloperSkills.domain.Developer;
 
 public interface DeveloperService {
 

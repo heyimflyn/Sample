@@ -1,8 +1,8 @@
-package com.ibm.dscs.dao;
+package com.ibm.DeveloperSkills.dao;
 
 import java.util.List;
 
-import com.ibm.dscs.domain.Developer;
+import com.ibm.DeveloperSkills.domain.Developer;
 
 public interface DeveloperDao {
 	

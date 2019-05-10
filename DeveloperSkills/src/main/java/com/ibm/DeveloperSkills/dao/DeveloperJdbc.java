@@ -1,4 +1,4 @@
-package com.ibm.dscs.dao;
+package com.ibm.DeveloperSkills.dao;
 
 import java.sql.Connection;
 //import java.sql.Date;
@@ -11,7 +11,7 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-import com.ibm.dscs.domain.Developer;
+import com.ibm.DeveloperSkills.domain.Developer;
 
 public class DeveloperJdbc implements DeveloperDao {
 	
